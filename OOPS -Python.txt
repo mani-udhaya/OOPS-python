@@ -1,0 +1,86 @@
+===========>> OOPS CONCEPTS <<==============
+
+Object Oriented Programming in Python
+
+c++, c#, java, python ,etc... --> oops concepts
+
+Programming :
+	1.object oriented programming
+	2. procedural oriented programming
+	3. functional oriented programming
+	4. modular programming
+	
+python is a "Multi paradigm programming language"
+
+OOPS Concepts:
+	1. object
+	2. class
+	3. Inheritance
+	4. Encapsulation
+	5. Abstraction
+	6. polymorphism
+Object:
+	1. object is a combination of State and Behaviour.
+	2. object can't present with out class.
+	3. object is memory reference of a class.
+	4. in python everything is objects.
+	5.object is real time entity.
+	6.object is living things or non living things.
+object:  (bank manager)
+	1.  state - manager 
+	2. behaviour - what are the works are doing
+Class:
+	1. class is a Template
+	2. class is a Blueprint
+example:
+	bank,customer care, super market, bus stop,airport,etc...
+class - Template:
+bank -->
+	account open()
+	deposit()
+	cheque()
+	dd()
+	addresschage()
+	aadhar,mobile link()
+These are the works are do from  bank employee.
+These employees are representatives of bank.
+
+class creation:
+
+keyword => class
+class classname:
+
+ex:
+	class student:
+		''' This class about student class '''   #doc string
+
+Ingeritance:
+	1. An object of one class behaving as an object of another class.
+	2. Parent - Child relationship.
+	3. Code re-usability.
+	4. Memory effiency.
+Parent - child --> loosly coupled repaltionship
+
+Encapsulation:
+	-> capsul - outer layer
+	-> Encapsulation is a Data Binding
+	-> Efficient use of code re-usability
+
+Example - Human Being:
+	1. personal details - like (ATM pin,Diary,etc...)
+	2. personal friends - module	
+	3. Relatives - job,studies,degree
+	4. public - travel,entertainment,etc...
+real time exaple:
+	Whatsapp status -> Encapsulation - > Data protection
+
+Abstraction: synopsis
+	* It is a Data hiding
+	* Showing only necessary data and hiding unwanted one.
+
+Polymorphism:
+	Showing different faces at different places.
+example:
+	print(5+5)     # o/p -> 10 this is addition 
+	print('hello' +'python' )    # o/p-> hello python -> this is concodition
+
