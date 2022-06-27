@@ -147,4 +147,4 @@ calculate_total(tamil = 90)
 calculate_total(Tamil = 98, English = 89, Maths = 98, Science = 95)
 print('----------------------')
 
-	
+	 
